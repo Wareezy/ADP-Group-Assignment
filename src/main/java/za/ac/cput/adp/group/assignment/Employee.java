@@ -7,7 +7,7 @@ package za.ac.cput.adp.group.assignment;
 
 /**
  *
- * @author warre
+ * @author warren Jaftha-219005303
  */
 public class Employee {
     private String role, employeename,surname;
