@@ -8,7 +8,7 @@
  *
  * Marvin Hope - 219445842 
  */
-public class Employee {
+public class Employdetails {
     private String EmployID, EmployNum, EmpSur;
 
     public String getEmployID() {
