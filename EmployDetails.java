@@ -39,4 +39,5 @@ public class EmployDetails {
     public String toString() {
         return "Employee{" + "EmployID=" + EmployID + ", EmployNum=" + EmployNum + ", EmpSur=" + EmpSur + '}';
     }
+    
 }
